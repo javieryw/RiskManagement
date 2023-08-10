@@ -10,13 +10,6 @@
     }
   ],
   "attributes": [],
-  "oauth2-configuration": {
-    "token-validity": 604800,
-    "refresh-token-validity": 2592000,
-    "redirect-uris": [
-      "https://*.us10-001.hana.ondemand.com/login/callback"
-    ]
-  },
   "role-templates": [
     {
       "name": "RiskViewer",
