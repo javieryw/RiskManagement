@@ -16,7 +16,7 @@
     "express": "^4",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3.2.18",
-    "hdb": "^0.19.5",
+    "hdb": "^0.19.6",
     "passport": "^0.6.0"
   },
   "devDependencies": {
